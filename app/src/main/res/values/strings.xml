@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Visit Split</string>
+
+    <!-- Reach -->
+    <string name="arrival_by_car">
+        HAK (Croatian Automobile Club) Road assistance: +385 (0)1 987
+    </string>
+
+    <string name="arrival_by_bus">
+        Bus station Split \nDomestic travel: +385 (0)60 327 327 85
+    </string>
+
+    <string name="arrival_by_plane">
+        Airport Split \nTel: +385 (0)21 203 555
+    </string>
+    
+    <string name="arrival_by_ship">
+        Jadrolinija \nTel: +385 (0)51 666 111
+    </string>
+
+    <string name="arrival_by_train">
+        Railway Station Split \nPhone: +385 (0)60 333 444
+    </string>
+
+    <string name="reach_split">How to reach split</string>
+    <string name="accommodation">Accommodation</string>
+    <string name="getting_around">Tourist agencies</string>
+    <string name="institutions">Institutions</string>
+    <string name="car_title">Arrival by car</string>
+    <string name="bus_title">Arrival by bus</string>
+    <string name="plane_title">Arrival by plane</string>
+    <string name="ship_title">Arrival by ship</string>
+    <string name="train_title">Arrival by train</string>
+    <string name="hotel_title_1">Hotel Atrium</string>
+    <string name="hotel_title_2">Hotel Park</string>
+    <string name="hotel_title_3">BEST WESTERN Hotel Art</string>
+    <string name="hotel_title_4">Corner Hotel</string>
+    <string name="hotel_title_5"><![CDATA[Dioklecijan Hotel & Residence]]></string>
+    <string name="hotel_address_1">Ulica slobode 41, Split</string>
+    <string name="hotel_address_2">Mažuranićevo Šetalište 1, Split</string>
+    <string name="hotel_address_3">Kranjčevićeva 45, Split</string>
+    <string name="hotel_address_4">Sinjska 6, Split</string>
+    <string name="hotel_address_5">Kopilica 5, Split</string>
+    <string name="agency_1">ACANTHO</string>
+    <string name="agency_2">ADRIA ISLAND - TO ISLANDS TRAVEL</string>
+    <string name="agency_3">ADRIAGATE</string>
+    <string name="agency_4">ADRIASOUL</string>
+    <string name="agency_5">ADRIATIC TRAVEL</string>
+    <string name="agency_address_1">Generala Zadre 4</string>
+    <string name="agency_address_2">Gat Sv. Duje 4</string>
+    <string name="agency_address_3">Vukovarska 156</string>
+    <string name="agency_address_4">Jadranska 6</string>
+    <string name="agency_address_5">Krešimirova 3</string>
+    <string name="institution_1">Consulates</string>
+    <string name="institution_2">Banks and exchange offices</string>
+    <string name="institution_3">Post offices</string>
+    <string name="institution_4">Emergency services</string>
+    <string name="institution_5">Libraries</string>
+    <string name="institution_address_1">THE ROYAL CONSULATE OF DENMARK Supilova 10 Tel. 021/358-488</string>
+    <string name="institution_address_2"><![CDATA[ERSTE BANK d.d. (Erste&Steiermärkische Bank d.d.) Gundulićeva 40a, 21000 Split]]></string>
+    <string name="institution_address_3">Post office Hercegovačka 1, HR 21 000, Split Tel: +385 (0)21 383 366</string>
+    <string name="institution_address_4">Gat Sv. Duje bb Tel. 021/307-919, 307-630</string>
+    <string name="institution_address_5">Ulica Slobode 2, HR 21 000 Split</string>
+
+</resources>
